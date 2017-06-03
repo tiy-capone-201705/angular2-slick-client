@@ -9,7 +9,7 @@ import { SlickDataService } from '../slick-data/slick-data.service';
   styleUrls: ['./login.component.css']
 })
 export class LoginComponent {
-  server = 'http://nsmc.curtissimo.com:9000';
+  server = 'http://slick.curtissimo.com:9000';
   name: string;
   error: string;
 
